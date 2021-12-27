@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning mathematics, quantum computing and machine learning
 - 📫 How to reach me: overskotts@gmail.com
 
-[![Sebastian's github stats](https://github-readme-stats.vercel.app/api?username=Overskott&count_private=true&show_icons=true&theme=default&hide_rank=false)](https://github.com/anuraghazragithub-readme-stats)  <!-- from: https://github.com/anuraghazra/github-readme-stats --> 
+[![Sebastian's github stats](https://github-readme-stats.vercel.app/api?username=Overskott&count_private=true&show_icons=true&theme=default&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)  <!-- from: https://github.com/anuraghazra/github-readme-stats --> 
 
 
 [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Overskott&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <!-- from: https://github.com/anuraghazra/github-readme-stats --> 
