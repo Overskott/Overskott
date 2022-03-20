@@ -1,6 +1,6 @@
 ### Hi, i'm Sebastian T. Overskott
 
-I'm a norwegian procurrently (2022) first year master's student in computer science at OsloMet. 
+I'm a first year master's student in computer science at OsloMet. I 
 
 <!--**Overskott/Overskott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
