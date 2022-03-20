@@ -6,7 +6,7 @@ I'm a first year master's student in computer science at OsloMet. I
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on my master's thesis - Finding the ground state of quantum systems using dense neural networks
+- 🔭 I’m currently working on my master's thesis - Encoding complex quantum states using a restricted Boltzmann machine
 - 🌱 I’m currently learning mathematics, quantum computing and machine learning
 - 📫 How to reach me: overskotts@gmail.com
 
